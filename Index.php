@@ -5,7 +5,7 @@
   	<meta name="description" content="Esta es una Pagina con noticias de la UNAD">
   	<meta name="keywords" content="UNAD, Carlos Eduardo Alvarez Montoya, Diseño web, HTML">
   	<link rel="stylesheet" type="text/css" href="css/IndexStyle.css"/>
-    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
   	<title>Carlos Eduardo Alvarez Montoya | UNAD New</title>
   </head>
   <body>
